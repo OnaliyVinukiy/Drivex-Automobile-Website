@@ -18,7 +18,7 @@
 </ul>
 <h3>Languages Used:</h3>
 <ul>
-  <li>Front End</li>
+  <li>Back End</li>
   <ul>
     <li>HTML</li>
      <li>CSS</li>

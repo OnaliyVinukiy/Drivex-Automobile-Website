@@ -29,7 +29,6 @@
 <ul>
   <li>Back End</li>
   <ul>
-    
-     <li>JS</li>
+  <li>PHP</li>
   </ul>
 </ul>

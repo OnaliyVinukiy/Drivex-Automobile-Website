@@ -19,4 +19,7 @@
 <h3>Languages Used:</h3>
 <ul>
   <li>Front End</li>
+  <ul>
+    <li>HTML</li>
+  </ul>
 </ul>

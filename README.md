@@ -6,4 +6,7 @@
   <li>
     Classic Cars
   </li>
+  <li>
+    Luxury Cars
+  </li>
 </ul>

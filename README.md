@@ -12,4 +12,7 @@
   <li>
     Sports Cars
   </li>
+  <li>
+    New Arrivals
+  </li>
 </ul>

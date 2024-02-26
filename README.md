@@ -23,6 +23,6 @@
     <li>HTML</li>
      <li>CSS</li>
      <li>Bootstrap</li>
-     <li>CSS</li>
+     <li>JS</li>
   </ul>
 </ul>
